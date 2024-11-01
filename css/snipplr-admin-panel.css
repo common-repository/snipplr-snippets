@@ -1,0 +1,8 @@
+/* Snipplr Snippets Styling *************************/
+#snipplrSnippets ul {
+	margin: 0 0 8px;
+	}
+#snip_key_save,
+#snip_settings_save {
+	margin: 0 0 24px;
+	}

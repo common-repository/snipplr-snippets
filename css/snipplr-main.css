@@ -1,0 +1,25 @@
+/* Snipplr Plug-in CSS File **************************
+ * 
+ * Include this CSS into your themes style.css and
+ * check 'Disable plug-in CSS in site header?' in the 
+ * snipplr config menu if you want to customise the
+ * snippet layout.
+ * 
+ ****************************************************/
+.sniplrcode {
+	border: 1px solid #9f9f9f;
+	margin: 0 0 16px;
+	background: #f1f1f1;
+	overflow: auto;
+	font-size: 12px !important;
+	}
+.sniplrcode ol {
+	border-left: 2.8em solid #CCC;
+	margin: 0 !important;
+	padding: 4px 0 !important;
+	font-size: 12px !important;
+	list-style: decimal !important;
+	width: 100%;
+	}
+.sniplrcode ol li {font-size: 12px !important;}
+.sniplrcode ol li div {line-height: 1.4 !important;}
